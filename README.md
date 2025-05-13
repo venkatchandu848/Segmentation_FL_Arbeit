@@ -28,7 +28,7 @@ These algorithms were assessed under 2 types of sampling: uniform (IID) and non-
 
 
 ## 📊 Report
-For detailed experimental results, evaluations, and visualizations, the full report is available [here](
+For detailed experimental results, evaluations, and visualizations, the full report is available [here](https://github.com/venkatchandu848/Segmentation_FL_Arbeit/blob/main/Studien_Arbeit.pdf)
 
 
 
