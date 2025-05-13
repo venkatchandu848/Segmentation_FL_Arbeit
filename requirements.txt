@@ -1,0 +1,9 @@
+## Libraries needed
+
+torch
+torchmetrics
+numpy
+time
+matplotlib
+segmentation_models_pytorch
+tqdm
